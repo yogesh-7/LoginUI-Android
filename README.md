@@ -10,10 +10,9 @@ Login User Interface in android with innovative, beautiful and creative backgrou
 
 
 ### Contact - Let's become friend
-- [Twitter](https://twitter.com/shashank020597)
-- [Github](https://github.com/Shashank02051997)
-- [Linkedin](https://www.linkedin.com/in/shashank-singhal-a87729b5/)
-- [Facebook](https://www.facebook.com/shashanksinghal02)
+- [Github](https://github.com/yogesh-7)
+- [Linkedin](https://www.linkedin.com/in/yogesh-bansal-988a87155/)
+- [Facebook](https://www.facebook.com/yudi1116)
 
 
 ### Show some :heart: and star the repo to support the project
